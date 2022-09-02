@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo crown betty hello
-sudocrown betty hello
+chown betty hello
